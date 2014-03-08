@@ -7,3 +7,4 @@
         if ($i == 3) break;
     }
 
+    echo 'Kchan! Kchan!';
